@@ -1,0 +1,8 @@
+70
+10
+3
+1500
+int.txt
+random_adj
+./Parameters/
+0
