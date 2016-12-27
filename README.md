@@ -16,10 +16,17 @@ After running compNetwork.sh, compClass.sh can be run to get the AUC-ROC values.
 The configuration file (config.txt) includes other required parameters as follows 
 
 line # |  Parameter 
+
 1         Number of agents
+
 2         Time duration
+
 3         Number of latent states
+
 4         Number of samples in Gibbs sampling before writing data for training and testing
+
 5         List of labels of nodes (These labels has to match the adjacency list)
+
 6         Path to write the trained model parameters 
+
 7         Debug mode
