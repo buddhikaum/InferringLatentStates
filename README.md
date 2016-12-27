@@ -2,8 +2,11 @@ Use make to build the files.
 This work depends on armadillo, scikit-learn and networkx libraries. 
 
 You can run the binary with one command line arguments. (E.g. ./var-inf 1)
-The argument is a number which can be 1,2 or 3 which indicates generating data from the model, 
-training the model and inference on a trained model respectively. 
+The argument is a number which can be 1,2 or 3 which indicates, 
+
+1. generating data from the model, 
+2. training the model, 
+3. inference on a trained model. 
 
 The script compNetworks.sh will run all the steps including generating random network, 
 generating training data and finally the inference on new data set. 
