@@ -11,8 +11,8 @@ The argument is a number which can be 1,2 or 3 which indicates,
 The script compNetworks.sh will run all the steps including generating random network, 
 generating training data and finally the inference on new data set. 
 
-Random network will be written to a file name "random_adj_{N}.txt" in the form of 
-adjacency list. 
+Random network will be written to a file name "random_adj{N}.txt" in the form of 
+adjacency list, where N is the number of agents. 
 
 After running compNetwork.sh, compClass.sh can be run to get the AUC-ROC values.
 
