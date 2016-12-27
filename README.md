@@ -6,7 +6,7 @@ The argument is a number which can be 1,2 or 3 which indicates,
 
 1. generating data from the model, 
 2. training the model, 
-3. inference on a trained model. 
+3. inference using trained parameters of the model. 
 
 The script compNetworks.sh will run all the steps including generating random network, 
 generating training data and finally the inference on new data set. 
