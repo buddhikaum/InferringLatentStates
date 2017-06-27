@@ -1,4 +1,4 @@
-Paper link [https://www.dropbox.com/s/03c4fmcss4nm6ii/samarakoon.pdf?dl=0].
+Paper link [http://ieeexplore.ieee.org/document/7952581/].
 
 Use make to build the files.
 This work depends on armadillo, scikit-learn and networkx libraries. 
