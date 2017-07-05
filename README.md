@@ -3,7 +3,7 @@ Paper link [http://ieeexplore.ieee.org/document/7952581/].
 Use make to build the files.
 This work depends on armadillo, scikit-learn and networkx libraries. 
 
-You can run the binary with one command line arguments. (E.g. ./var-inf 1)
+You can run the binary with one command line argument. (E.g. ./var-inf 1)
 The argument is a number which can be 1,2 or 3 which indicates, 
 
 1. generating data from the model, 
